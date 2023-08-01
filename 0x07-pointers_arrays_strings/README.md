@@ -1,0 +1,1 @@
+readme for point_arrays_strings
